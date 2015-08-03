@@ -10,10 +10,10 @@
 
 ##Exercises:
 (do all exercises, submit the below)
-+ ###HW01_ex01_04.py
-+ ###HW01_ex02_01.py
-+ ###HW01_ex02_02.py
-+ ###HW01_ex02_03.py
++ HW01_ex01_04.py
++ HW01_ex02_01.py
++ HW01_ex02_02.py
++ HW01_ex02_03.py
 
 
 <!-- Links -->
