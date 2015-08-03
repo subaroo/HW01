@@ -9,12 +9,13 @@
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
 ##Exercises:
-###Think Python:[Chapter 1: The Way of The Program][ch1]
+###Think Python:
+####[Chapter 1: The Way of The Program][ch1]
 
 (do all exercises, submit the below)
 + HW01_ex01_04.py
 
-###Think Python:[Chapter 2: Variables, Expressions, and Statements][ch2]
+####[Chapter 2: Variables, Expressions, and Statements][ch2]
 + HW01_ex02_01.py
 + HW01_ex02_02.py
 + HW01_ex02_03.py
