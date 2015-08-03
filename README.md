@@ -11,7 +11,7 @@
 ##Exercises:
 ###Think Python:
 [Chapter 1: The Way of The Program][ch1]
-+ (do all exercises, submit the below)
+(do all exercises, submit the below)
 + HW01_ex01_04.py
 
 [Chapter 2: Variables, Expressions, and Statements][ch2]
