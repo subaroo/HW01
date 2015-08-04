@@ -9,3 +9,17 @@
 # average time per mile? What is your average speed in miles per hour? 
 # (Hint: there are 1.61 kilometers in a mile).
 # Average Speed in MPH:
+
+
+10/1.61 = 6.211180124223602 miles
+
+43.5 minutes
+43.5/60 = .725 hours
+
+
+Answers:
+43.5/6.211 = 7.003 minutes per mile
+6.211/0.725 = 8.567 miles per hour
+
+
+
